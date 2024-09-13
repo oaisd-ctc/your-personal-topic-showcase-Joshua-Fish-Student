@@ -1,34 +1,39 @@
-#top{
+#top {
     margin-top: 35px;
     margin-left: 50px;
     background-color: black;
     height: 50px;
     margin-right: 35px;
 }
-.on{
+
+.on {
     border: 5px solid red;
     border-radius: 2px;
     margin: 20px;
     padding: 5px;
     background-color: white;
 }
-.off{
+
+.off {
     border: 1px dotted red;
     border-radius: 2px;
     margin: 20px;
     padding: 5px;
     background-color: white;
 }
-.nav{
+
+.nav {
     color: black;
     font-size: 20px;
     text-decoration: none;
     align-self: center;
 }
-.ul{
+
+.ul {
     text-decoration: underline;
 }
-#side{
+
+#side {
     background-color: red;
     color: black;
     position: fixed;
@@ -36,7 +41,8 @@
     right: 0;
     margin-right: 200px;
 }
-.side-link{
+
+.side-link {
     color: black;
     text-decoration: none;
     margin: 10px;
